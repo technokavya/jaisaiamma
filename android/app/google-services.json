@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527318927534",
+    "project_id": "jaisaiammaapp",
+    "storage_bucket": "jaisaiammaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527318927534:android:bace0a08d049d896d4853f",
+        "android_client_info": {
+          "package_name": "com.ram.jaisaiamma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmS7kfWHoIlxwznojVtxs0se27GL51N6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
